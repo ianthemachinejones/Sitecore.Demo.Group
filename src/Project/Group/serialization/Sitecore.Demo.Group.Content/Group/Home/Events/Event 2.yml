@@ -1,0 +1,23 @@
+﻿---
+ID: "a442b2c2-8cfe-4d3b-a447-57e976bee9e1"
+Parent: "37866520-fbd0-46cd-a883-fa832229c466"
+Template: "67ffacfd-9002-44bc-b486-e1662c7ba782"
+Path: /sitecore/content/Group/Home/Events/Event 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0831bb3b-7826-4560-9593-a10590f2bb42"
+      Hint: Description
+      Value: Dummy COpy 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T152939Z
+    - ID: "ca126e46-4df1-4ef7-8936-4818fbcbb817"
+      Hint: Date
+      Value: 20170625T153000Z
+    - ID: "e4ada13f-0c99-4392-bd56-9ffd43f3efda"
+      Hint: Title
+      Value: Event 2
